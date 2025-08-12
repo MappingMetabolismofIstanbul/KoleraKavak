@@ -29,7 +29,7 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [29.074, 41.161],
+                center: [29.075, 41.160],
                 zoom:10,
                 pitch: 0,
                 bearing: 0
@@ -59,7 +59,7 @@ var config = {
             image: 'https://i.ibb.co/r2v98nZg/MEF-AAP-027-BAP-2025-07-31-14-37-24.png',
             description: '',
             location: {
-                center: [29.074, 41.161],
+                center: [29.075, 41.160],
                 zoom: 12,
                 pitch: 0,
                 bearing: 0,
@@ -84,7 +84,7 @@ var config = {
             image: 'https://i.ibb.co/vxrNLk4L/MEF-AAP-027-BAP-2025-07-31-14-38-37.png',
             description: '',
             location: {
-                center: [29.074, 41.161],
+                center: [29.075, 41.160],
                 zoom: 14,
                 pitch: 0,
                 bearing: 0.00
@@ -103,8 +103,8 @@ var config = {
             image: 'https://i.ibb.co/7tprBfzN/MEF-AAP-027-BAP-2025-07-31-14-39-48.png',
             description: '',
             location: {
-                center: [29.074, 41.161],
-                zoom: 16,
+                center: [29.075, 41.160],
+                zoom: 15,
                 pitch: 0,
                 bearing: 0.00
             },
@@ -122,8 +122,8 @@ var config = {
             image: 'https://i.ibb.co/G4sMfJsg/MEF-AAP-027-BAP-2025-07-31-14-40-59.png',
             description: '',
             location: {
-                center: [29.074, 41.161],
-                zoom: 18,
+                center: [29.075, 41.160],
+                zoom: 15,
                 pitch: 0,
                 bearing: 0.00
             },
@@ -141,8 +141,8 @@ var config = {
             image: 'https://i.ibb.co/HDT8fgvx/MEF-AAP-027-BAP-2025-07-31-14-42-08.png',
             description: '',
             location: {
-                center: [29.074, 41.161],
-                zoom: 18,
+                center: [29.075, 41.160],
+                zoom: 15,
                 pitch: 0,
                 bearing: 0.00
             },
